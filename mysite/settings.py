@@ -25,7 +25,7 @@ SECRET_KEY = 'w68r0#!87fbyi25pm-m+&nrh3*1m-kzwl$&24mw*-8s=n0br9d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kaserole.pythonanywhere.com']
 
 
 # Application definition
